@@ -23,7 +23,6 @@ SAS macro utl_submit_py64_310 to drop down to python from SAS
               Was unable to figure out how to populate the label with the long Python name.
 
     Macros on end and in github
-
       Macros
       https://tinyurl.com/58pp9nz6
       https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
